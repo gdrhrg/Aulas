@@ -23,6 +23,8 @@ text-align: left;
     background-size: cover;
     background-position:center ;
 }
-
+.flex{
+    display: flex;
+}
 
 
